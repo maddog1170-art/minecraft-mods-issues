@@ -15,7 +15,7 @@ This repository is the central place to report **bugs** and suggest **features/i
 
 ## Links
 
-- My CurseForge projects: (add your CurseForge profile link here once set up)
+- My CurseForge projects: https://www.curseforge.com/members/jayb1170/projects
 - GitHub Issues: https://github.com/maddog1170-art/minecraft-mods-issues/issues
 
 Thanks for helping improve the mods!
